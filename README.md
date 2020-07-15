@@ -15,3 +15,7 @@ Have control over each product individually.
   * under producting track we have two options to check for new version.
     * Device will check every 30 Minute if there is a new update, The device will update automatically.
     * Device will check every 60 Minute if there is a new update, The device will update automatically. **(Recommended)**
+    
+## Secure OTA Update
+
+ * We use https to secure your device binary, which takes steps to verify that the address actually belongs to right organization, thus protecting your customers from man-in-the-middle attacks. When setting up your SSL certificate, ensure a high level of security by choosing a 2048-bit key.
