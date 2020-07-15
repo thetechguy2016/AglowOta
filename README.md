@@ -9,5 +9,9 @@ Have control over each product individually.
 
 * Test Track
   * It helps you to test your code on your testing devices just to make sure everything is perfect to go ahead with.
+  * under test track the device will check every 2 minute, if is there any new update. if there is a new update the device will update automatically.
 * Production Track
   * It will push your final code to the live devices installed all around the world.
+  * under producting track we have two options to check for new version.
+    * Device will check every 30 Minute if there is a new update, if there is a new update the device will update automatically.
+    * Device will check every 60 Minute if there is a new update, if there is a new update the device will update automatically. **(Recommended)**
