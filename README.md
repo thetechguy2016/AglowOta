@@ -22,3 +22,20 @@ Have control over each product individually.
 ## Secure OTA Update
 
  * We use https to secure your device binary, which takes steps to verify that the address actually belongs to right organization, thus protecting your customers from man-in-the-middle attacks. When setting up your SSL certificate, ensure a high level of security by choosing a 2048-bit key.
+
+
+## If you getting error while compiling
+ * Check this below link and folow the instruction
+ * https://github.com/arduino/Arduino/issues/10473#issuecomment-654114166
+ * You can find the platform.txt of ESP8266 here
+    * MacOs - /Users/username/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.1/platform.txt
+    
+## How to install
+
+#### Manual Install ####
+* For Windows: Download the Repository and extract the .zip in Documents>Arduino>Libraries>{Place "AglowOTA" folder Here}
+
+* For Linux: Download the Repository and extract the .zip in Sketchbook>Libraries>{Place "AglowOTA" folder Here}
+
+#### Manually through IDE ####
+* Download the Repository, Go to Sketch>Include Library>Add .zip Library> Select the Downloaded .zip File.
