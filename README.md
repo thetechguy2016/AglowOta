@@ -71,7 +71,7 @@ In test mode the api will check every 2 minute for testing purpose
 as we have two different track please use TEST for testing purpose only as we 
 have to pay so much for the cloud call. and we give this service for free.
 If you like our service please donate so that we can keep working for every one.
-https://www.paypal.com/sdk/js?client-id=AWqEKAZ4xdsiKIEyEc9UZ744d1rig478cswNTUgE0qd3EN1lZWPc55E6dOn3miPHR1nDdIjDkitxZpyS&currency=USD
+https://www.buymeacoffee.com/aglow
 */
 
 DEV_MODE mod = TEST; // and "PROD" for production device
