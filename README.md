@@ -8,6 +8,9 @@
 You can add as many Projects as you want. Each project has N number of products.
 Have control over each product individually.
 
+**The very first time we provide the functionallity to update n number of devices
+just a click away.**
+
 ## We provide two different tracks to update your product for your ease.
 
 * Test Track
@@ -41,3 +44,6 @@ Have control over each product individually.
 
 #### Manually through IDE ####
 * Download the Repository, Go to Sketch>Include Library>Add .zip Library> Select the Downloaded .zip File.
+
+## Documentation
+AglowOta provide a very simple way to add OTA functionality to your device,  
